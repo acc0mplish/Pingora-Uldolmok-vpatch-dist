@@ -1,4 +1,4 @@
-# vpatch-dist
+# Pingora-Uldolmok-vpatch-dist
 
 UVPB(Uldolmok Virtual-Patch Bundle) v1 공개 배포 좌석 — **서명 완료 아티팩트만** 게시된다.
 
